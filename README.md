@@ -16,7 +16,7 @@ In this project, the client is 10 Academy; the client would like to solve the ch
 - Extensive unit testing 
 - Advanced CI/CD
 
-##Steps 
+## Steps 
 - Sandbox & API connections ( Algorand Snadbox)
 - Develope Frontend & Backend ( using React and Flask )
 - NFT creation & Smart Contract ( Algorand Smart Contract)
