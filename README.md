@@ -7,7 +7,7 @@ In this project, the client is 10 Academy; the client would like to solve the ch
 
 ## Data
 - No particular data is given to this challenge. We will explore and visualise Algorand blockchain data. 
-##Expected Outcomes
+## Expected Outcomes
 - Building REST and GraphQL APIs
 - Building frontend and backend systems
 - Connecting with Blockchain Nodes
